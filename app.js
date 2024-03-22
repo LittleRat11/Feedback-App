@@ -35,3 +35,4 @@ function removeActive() {
         rating.classList.remove("active");
     });
 }
+console.log("this is my second commit");
